@@ -1,0 +1,7 @@
+
+
+Version 11.9.0
+
+Cisco JCV NOTICE
+
+The Jabber Config Validator Tool (JCV) will harvest logs from your PC that may include contact information, Installed Softwares and other information that could be used to personally identify you or others. This information is required as part of the diagnostic process to determine the cause of the technical issue reported by you. The logs may be transferred across borders and stored temporarily as part of the diagnostic process. By using the JCV, you consent to provide the logs to Cisco in order to enable Cisco to troubleshoot any technical problems with Cisco Jabber.

@@ -1,0 +1,15 @@
+CSCve40856=3=Desktop share button is grayed out during a call (BFCP) via MRA.
+CSCve70085=3=Unable to check alerts when Available, for contacts not part of the contact list.
+CSCve71805=3=Jabber for Windows takes focus from any application being used after a call ends.
+CSCve72240=3=Search result display window occasionally does not show the Directory Contacts.
+CSCve79355=3=Jabber crashes while calling MAPILogonEx in Citrix VMware.
+CSCve86254=3=Unable to send a response to re-invite for transfer on Jabber Softphone.
+CSCve99283=3=Unable to paste more than one number into the dial pad or dock window.
+CSCvf31386=3=Jabber for Windows 11.8.4 crashes when directory (ldap) connection is not established.
+CSCvf24293=3=Contact list cache not set to expire after 24-hours.
+CSCvf26291=3=Jabber video stuck on Surface Pro 4 with Win10 Creator Updates if the camera is switched quickly.
+CSCvf32185=3=Jabber incorrectly sends DTMF flash event even when peer doesn't support it.
+CSCve57321=3=Jabber 11.8 unable to search users from multiple domains.
+CSCvc87612=3=Call filter list view error for screen reader.
+CSCvf42432=3=Cyrillic letters are encoded and garbled while in deskphone control mode.
+CSCvf28619=3=Invalid warning message shown when chatting with a blocked user.
